@@ -18,18 +18,6 @@ This repository showcases a Minesweeper Challenge game where players select the 
     cd minesweeper-challenge
     ```
 
-2. Install dependencies:
-    ```sh
-    npm install
-    ```
-
-3. Start the game:
-    ```sh
-    npm start
-    ```
-
-4. Follow the on-screen instructions to set the number of mines, place your bet, and start selecting tiles.
-
 ## Example
 
 - Player sets desired number of mines.
