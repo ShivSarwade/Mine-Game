@@ -33,6 +33,6 @@ This repository showcases a Minesweeper Challenge game where players select the 
 ## Example
 
 - Player sets desired number of mines.
-- Player places a bet of $10.
+- Player places a bet of 10 coins.
 - Player selects a tile without a mine, their amount is multiplied by 1.2.
 - Player continues selecting tiles until they hit a mine or decide to cash out.
